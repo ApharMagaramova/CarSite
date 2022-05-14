@@ -1,0 +1,14 @@
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.csproj.AssemblyReference.cache
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.AssemblyInfoInputs.cache
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.AssemblyInfo.cs
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.csproj.CoreCompileInputs.cache
+C:\Users\dell-user\source\repos\CarSite\CarSite\bin\Debug\netcoreapp3.1\CarSite.exe
+C:\Users\dell-user\source\repos\CarSite\CarSite\bin\Debug\netcoreapp3.1\CarSite.deps.json
+C:\Users\dell-user\source\repos\CarSite\CarSite\bin\Debug\netcoreapp3.1\CarSite.runtimeconfig.json
+C:\Users\dell-user\source\repos\CarSite\CarSite\bin\Debug\netcoreapp3.1\CarSite.runtimeconfig.dev.json
+C:\Users\dell-user\source\repos\CarSite\CarSite\bin\Debug\netcoreapp3.1\CarSite.dll
+C:\Users\dell-user\source\repos\CarSite\CarSite\bin\Debug\netcoreapp3.1\CarSite.pdb
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.dll
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.pdb
+C:\Users\dell-user\source\repos\CarSite\CarSite\obj\Debug\netcoreapp3.1\CarSite.genruntimeconfig.cache
